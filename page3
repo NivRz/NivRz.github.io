@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jeep Tour</title>
+    <style>
+        h1{color:calc();
+        font-size: 6em;
+        text-align: center;}
+    </style>
+</head>
+<body>
+    <h1>Jeep Tour</h1>
+    <img src="/Users/macpro/Desktop/information system management/courses/Development in the Internet environment/hw1/travel.webp" alt="jeep image">
+    <hr>
+    <a href="/Users/macpro/Desktop/information system management/courses/Development in the Internet environment/hw1/file3.html">file 3 html</a>
+    <hr>
+    <img src="/Users/macpro/Desktop/information system management/courses/Development in the Internet environment/hw1/grand vitara.jpeg" alt="grand-vitara">
+</body>
+</html>
